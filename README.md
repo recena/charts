@@ -1,6 +1,6 @@
 ## Built-in Helm Chart Repository
 
-This repository contains [Helm Charts](https://ranchermanager.docs.rancher.com/how-to-guides/new-user-guides/helm-charts-in-rancher) served by Rancher Manager - Apps & Marketplace.
+This repository contains [Helm Charts](https://ranchermanager.docs.rancher.com/how-to-guides/new-user-guides/helm-charts-in-rancher) served by the Rancher Manager - Apps & Marketplace.
 
 It is currently maintained by the Release Team.
 
